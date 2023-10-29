@@ -25,6 +25,7 @@ public class AddDeleteAndReceiveHw {
 
             switch (choice) {
                 case 1:
+
                     scanner.nextLine();
                     System.out.print("Vazifa nomini kiriting: ");
                     homeworkName = scanner.nextLine();
